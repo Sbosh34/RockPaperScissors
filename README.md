@@ -43,7 +43,7 @@ Welcome to **Rock Paper Scissors Kleva**, a fun and interactive GUI-based game b
 
 ## Screenshots
 
-![Game Screenshot](screenshots/Screenshot 2025-07-23 211657.png)
+![Game Screenshot](screenshots/rps_Screenshot.png)
 
 ## Contributing
 
